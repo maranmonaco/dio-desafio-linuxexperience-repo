@@ -1,5 +1,5 @@
-# dio-desafio-linuxexperience-repo
-teste dio-desafio-linuxexperience-repo
+# dio-desafios-linuxexperience-repo
+teste dio-desafios-linuxexperience-repo
 
 
 ## Links úteis
