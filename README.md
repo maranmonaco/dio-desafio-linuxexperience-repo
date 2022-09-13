@@ -6,3 +6,6 @@ neste repositório se encontram os projetos executados no Bootcamp Linux Experie
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 [GitHub Cheat Sheet] (https://education.github.com/git-cheat-sheet-education.pdf)
+
+[Amazon EC2 Documentation] (https://docs.aws.amazon.com/ec2/index.html)
+
